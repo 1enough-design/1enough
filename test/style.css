@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'OnguelipBold';
-    src: url('/font/OnguelipBold.woff2');
-    font-weight: 700;
-    font-style: normal;
-}
-body {
-    font-family: "OnguelipBold", sans-serif;
-  }
