@@ -10,18 +10,3 @@
     font-weight: 700;
     font-display: swap;
 }
-@font-face {
-    font-family: 'OnguelipLink';
-    src: url('https://cdn.jsdelivr.net/gh/1enough-design/1enough/font/OnguelipLink.woff2') format('woff2');
-    font-weight: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'OnguelipOutline';
-    src: url('https://cdn.jsdelivr.net/gh/1enough-design/1enough/font/OnguelipOutline.woff2') format('woff2');
-    font-weight: normal;
-    font-display: swap;
-}
-
-
- 
