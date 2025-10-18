@@ -1,15 +1,3 @@
-@font-face {
-    font-family: 'OnguelipAsphalt';
-    src: url('https://cdn.jsdelivr.net/gh/1enough-design/1enough/font/OnguelipAsphalt.woff2') format('woff2');
-    font-weight: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'OnguelipLight';
-    src: url('https://cdn.jsdelivr.net/gh/1enough-design/1enough/font/OnguelipLight.woff2') format('woff2');
-    font-weight: normal;
-    font-display: swap;
-}
  @font-face {
     font-family: 'OnguelipRegular';
     src: url('https://cdn.jsdelivr.net/gh/1enough-design/1enough/font/OnguelipRegular.woff2') format('woff2');
